@@ -14,8 +14,10 @@ This report presents findings from a comprehensive analysis of a USA medical dat
  - **Data Cleaning**: The dataset was cleaned in Excel by handling missing values, removing duplicates, and ensuring consistency in date formats. Outliers were detected and reviewed for relevance, and categorical 
      data was standardized for accurate analysis.
 
- - **Exploratory Data Analysis (EDA)**: Conducted an in-depth exploratory analysis using pivot tables, charts, and summary statistics. This included segmenting patients by year, age bracket, and medical conditions. 
-     I used conditional formatting to identify trends and insights quickly.
+ - **Exploratory Data Analysis (EDA)**: Conducted an in-depth exploratory analysis using pivot tables, charts, and summary statistics. This included segmenting patients by year, age bracket, and medical 
+     conditions. I used conditional formatting to identify trends and insights quickly.
+
+![Screenshot 2024-09-23 131913](https://github.com/user-attachments/assets/84b44421-9163-4f30-84ba-6289f4b25fef)
 
    
 
